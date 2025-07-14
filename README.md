@@ -45,8 +45,9 @@ Mudah di-deploy via Netlify. Cocok untuk digital marketer, agency, maupun UMKM y
 
 📷 Tampilan (Preview Screenshot) 
 
-![Uploading image.png…]()
-     
+
+     <img width="1355" height="612" alt="Screenshot from 2025-07-14 16-44-25" src="https://github.com/user-attachments/assets/08bfac63-238b-4c6e-8a89-7e643264a46e" />
+
 
 💻 Struktur File Utama 
 1 ├── index.html               # UI/Front-end aplikasi utama
