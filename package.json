@@ -1,0 +1,11 @@
+{
+  "name": "facebook-ads-analyzer",
+  "version": "1.0.0",
+  "description": "Facebook Ads Analyzer with Telegram Integration",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
